@@ -1,0 +1,17 @@
+Amassador filter=lfs diff=lfs merge=lfs -text
+Chapas filter=lfs diff=lfs merge=lfs -text
+. filter=lfs diff=lfs merge=lfs -text
+Desinfetante filter=lfs diff=lfs merge=lfs -text
+Engrenagem filter=lfs diff=lfs merge=lfs -text
+Escape[[:space:]]Automotivo filter=lfs diff=lfs merge=lfs -text
+Familas filter=lfs diff=lfs merge=lfs -text
+Ferramental filter=lfs diff=lfs merge=lfs -text
+Ganho[[:space:]]roscado filter=lfs diff=lfs merge=lfs -text
+Hélice filter=lfs diff=lfs merge=lfs -text
+Montagem filter=lfs diff=lfs merge=lfs -text
+Motor[[:space:]]Industiral filter=lfs diff=lfs merge=lfs -text
+Parafuso filter=lfs diff=lfs merge=lfs -text
+Pino filter=lfs diff=lfs merge=lfs -text
+Superfice filter=lfs diff=lfs merge=lfs -text
+Valvula filter=lfs diff=lfs merge=lfs -text
+Ventoinha filter=lfs diff=lfs merge=lfs -text
